@@ -13,9 +13,9 @@ Usage:
     remote: Total 10 (delta 2), reused 10 (delta 2), pack-reused 0
     Unpacking objects: 100% (10/10), done.
     Checking connectivity... done.
-    exercise_name (default is "FizzBuzz")? RomansGoHome
+    exercise_name (default is "FizzBuzz")? RomaniIteDomum
     exercise_module (default is "fizzbuzz")? romans
-    $ cd RomansGoHome
+    $ cd RomaniIteDomum
     $ pip install -r requirements.txt
     Requirement already satisfied (use --upgrade to upgrade): nose
     Requirement already satisfied (use --upgrade to upgrade): yanc
