@@ -16,6 +16,10 @@ Usage:
     exercise_name (default is "FizzBuzz")? RomansGoHome
     exercise_module (default is "fizzbuzz")? romans
     $ cd RomansGoHome
+    $ pip install -r requirements.txt
+    Requirement already satisfied (use --upgrade to upgrade): nose
+    Requirement already satisfied (use --upgrade to upgrade): yanc
+    Requirement already satisfied (use --upgrade to upgrade): nosy
     $ nosy
     .
     ----------------------------------------------------------------------
