@@ -6,7 +6,7 @@ Requirements:
 
 Usage:
 
-    $ cookiecutter gh:kermit666/cookiecutter-pyugat-dojo
+    $ cookiecutter gh:metakermit/cookiecutter-pyugat-dojo
     Cloning into 'cookiecutter-pyugat-dojo'...
     remote: Counting objects: 10, done.
     remote: Compressing objects: 100% (8/8), done.
